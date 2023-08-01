@@ -1,2 +1,13 @@
 # coding-quiz
-Assignment #6 in the UOB Front-End Web Development Bootcamp
+
+## Description
+Assignment submission number 6 in the UOB Front-End Web Development Bootcamp.
+
+For this assignment, we learnt some basic javaScript syntax and functions which were put to the test during this assignment.
+
+
+## Deployment
+The website deployment link can be accessed  . . . . .
+
+## License
+Please refer to the license in the repo.
