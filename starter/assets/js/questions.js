@@ -7,41 +7,41 @@
     // 3b. work on the logic before the answers. highscores in local storage maybe. 
 
 
-var questions [
+var questions = [
     {
-        title: 
-        choices:
-        answer: 
-    }
+        title: 'which following type of primitive data must be surrounded by 'brackets'?',
+        choices: ['boolean', 'number', 'string', 'undefined'],
+        answer: choices[2],
+    },
 
     {
-        title: 
-        choices:
-        answer: 
-    }
+        title: 'how many components does the for loop syntax consist of?',
+        choices: [1, 3, 5, 0],
+        answer: choices[1],
+    },
 
      {
-        title: 
-        choices:
-        answer: 
-    }
+        title: 'where is it best practice to place your css file in the HTML file?',
+        choices: ['<body>', '<head>', 'just before </body>', '<h1>'],
+        answer: choices[1],
+    },
 
      {
-        title: 
-        choices:
-        answer: 
-    }
+        title: 'if the length of an array is 5, what will the index number be?'
+        choices: [1, 4, 10, 0],
+        answer: choices[1],
+    },
 
      {
-        title: 
-        choices:
-        answer: 
-    }
+        title: 'which of the following is an example of writing using kebab case?',
+        choices: ['math-random', 'mathRandom', 'Math.random', 'math random'],
+        answer: choices[0],
+    },
 
      {
-        title: 
-        choices:
-        answer: 
-    }
+        title: 'What method must you use to display your javaScript in the browser console?',
+        choices: ['console', 'log', 'console.log', 'none of the above'],
+        answer: choices[2],
+    },
 
-]
+];
